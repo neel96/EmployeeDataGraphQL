@@ -1,7 +1,7 @@
 # EmployeeDataGraphQL
 EmployeeData Using GraphQL and Javascript and Axios Request 
 
-#Run 
+# Run 
 1. Install Dependencies - npm install 
 2. npm run dev:server
 3. npm run json:server
