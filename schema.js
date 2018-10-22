@@ -11,9 +11,9 @@ const {
 
 // //EmoployeeData
 // const employeeDetails = [
-//     {id:'1',name: 'Anuj Raval', email: 'anuj.digitalocean@gmail.com', age: 21, developerType: 'nodeDeveloper'},
-//     {id:'2',name: 'Neel Patel', email: 'neel.digitalocean@gmail.com', age: 21, developerType: 'ReactDeveloper'},
-//     {id:'3',name: 'Nilay Patel', email: 'nilay.digitalocean@gmail.com', age: 21, developerType: 'nodeDeveloper'}
+//     {id:'1',name: 'Anuj Raval', email: 'xyz@gmail.com', age: 21, developerType: 'nodeDeveloper'},
+//     {id:'2',name: 'Neel Patel', email: 'xyz@gmail.com', age: 21, developerType: 'ReactDeveloper'},
+//     {id:'3',name: 'Nilay Patel', email: 'xyz@gmail.com', age: 21, developerType: 'nodeDeveloper'}
 // ];
 
 
